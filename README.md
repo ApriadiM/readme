@@ -69,4 +69,12 @@ Contoh tabel 2 kolom:
 
 Contoh image
 
-![kucing](https://images.app.goo.gl/E818dqZ8X2HxAymk9)
+![kucing](https://images.app.goo.gl/hpmLdsgQmkMvuytN7)
+
+## Contoh garis Horizontal
+
+Contoh menyisipkan html:
+
+<div style="background-color:yellow; color:black;">
+<p> Hello Semua </p>
+</div>
